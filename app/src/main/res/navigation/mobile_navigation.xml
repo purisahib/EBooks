@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.pradeep.new014.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home">
+
+        <action
+            android:id="@+id/action_HomeFragment_to_HomeSecondFragment"
+            app:destination="@id/nav_home_second" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_home_second"
+        android:name="com.pradeep.new014.ui.home.HomeFragment"
+        android:label="@string/home_second"
+        tools:layout="@layout/fragment_home_second">
+        <action
+            android:id="@+id/action_HomeSecondFragment_to_HomeFragment"
+            app:destination="@id/nav_home" />
+
+        <argument
+            android:name="myArg"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.pradeep.new014.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.pradeep.new014.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/admin"
+        android:name="com.pradeep.new014.ui.admin.Admin"
+        android:label="@string/admin"
+        tools:layout="@layout/fragment_admin" />
+    <fragment
+        android:id="@+id/searching"
+        android:name="com.pradeep.new014.ui.Search.Searching"
+        android:label="@string/searching"
+        tools:layout="@layout/fragment_searching" />
+    <fragment
+        android:id="@+id/accountingBusiness"
+        android:name="com.pradeep.new014.ui.accounting.AccountingBusiness"
+        android:label="@string/accounting_business"
+        tools:layout="@layout/fragment_accounting_business" />
+    <fragment
+        android:id="@+id/artsOther"
+        android:name="com.pradeep.new014.ui.arts.ArtsOther"
+        android:label="@string/arts_other"
+        tools:layout="@layout/fragment_arts_other" />
+    <fragment
+        android:id="@+id/comics"
+        android:name="com.pradeep.new014.ui.comics.Comics"
+        android:label="@string/comics"
+        tools:layout="@layout/fragment_comics" />
+</navigation>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PS Books</string>
+    <string name="ps_book_s">PS Books</string>
+    <string name="hello_welcome_every_one">Hello welcome Every one.</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Puri Sahib</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Programming &amp; B.tech.</string>
+    <string name="menu_slideshow">Science (Chemistry/Mathematics/Physics/Biology)</string>
+    <string name="home_second">Home Second</string>
+    <string name="logout">logout</string>
+    <string name="ex_puri_sahib">ex:- Puri Sahib</string>
+    <string name="ex_purisahib_ps_com">Mr.Pradeep puri goswami</string>
+    <string name="registration_success">Registration success</string>
+    <string name="input_error_password">Password will Required"</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="todo">TODO</string>
+    <string name="registration_not_Success">Registration not success</string>
+    <string name="old_user_sign_in">OLD USER? SIGN IN</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="searching">Searching…</string>
+    <string name="search">School</string>
+    <string name="admin">FAQ.</string>
+    <string name="about">About</string>
+    <string name="download">Download</string>
+    <string name="comics">Comics</string>
+    <string name="accounting_business">Accounting/Business</string>
+    <string name="arts_other">Arts/Other</string>
+    <string name="help">Help</string>
+    <string-array name="choice_item">
+        <item>Title</item>
+        <item>Author</item>
+        <item>Category</item>
+    </string-array>
+</resources>

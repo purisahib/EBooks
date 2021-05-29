@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFCFFFF"
+    tools:context=".ui.searchbox.SearchingActiviy">
+    <Button
+        android:id="@+id/categoryButtonSearch"
+        android:layout_width="25dp"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:text="v"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/Indigo_800"
+        android:background="@drawable/search_layout"/>
+
+    <EditText
+        android:id="@+id/search_field"
+        android:layout_width="300dp"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/categoryButtonSearch"
+        android:background="@drawable/search_layout"
+        android:ems="10"
+        android:fontFamily="@font/nunito_semibold"
+        android:inputType="textPersonName"
+        android:paddingLeft="20dp"
+        android:paddingTop="10dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="10dp"
+        android:hint="Search Here..."/>
+
+    <ImageButton
+        android:id="@+id/buttonSearch"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/search_field"
+        android:background="@drawable/searchbtn"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/result_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/search_field"
+        android:layout_marginTop="10dp" />
+
+
+</RelativeLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_laptop"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_laptop"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/accountingBusiness"
+            android:icon="@drawable/ic_laptop"
+            android:title="@string/accounting_business" />
+        <item
+            android:id="@+id/artsOther"
+            android:icon="@drawable/ic_laptop"
+            android:title="@string/arts_other" />
+        <item
+            android:id="@+id/comics"
+            android:icon="@drawable/ic_laptop"
+            android:title="@string/comics" />
+        <item
+            android:id="@+id/searching"
+            android:icon="@drawable/ic_school_black"
+            android:title="@string/search" />
+        <item
+            android:id="@+id/admin"
+            android:icon="@drawable/ic_question_answer"
+            android:title="@string/admin" />
+    </group>
+</menu>

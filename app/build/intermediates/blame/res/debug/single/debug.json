@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_searching.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\fragment_searching.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_layout.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\search_layout.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_layout.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\list_layout.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pdf_reader.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\activity_pdf_reader.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_arts_other.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\fragment_arts_other.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito_extralight.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\font\\nunito_extralight.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account_holder.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_account_holder.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_open.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\open.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_laptop.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_laptop.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito_semibold.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\font\\nunito_semibold.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_video_layout.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\video_layout.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_admin.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\fragment_admin.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rbseboard.gif.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\rbseboard.gif"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_btn.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_search_btn.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_all_pdf_adapter.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\activity_all_pdf_adapter.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_book.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\activity_book.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_right.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_arrow_right.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_engineprograss.gif.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\engineprograss.gif"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ncert.jpg.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ncert.jpg"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_downlod.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\downlod.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_button.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\font_antic.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\font\\antic.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boardlogo.jpg.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\boardlogo.jpg"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_outline.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\search_outline.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_left.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_arrow_left.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_help.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cbse.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\cbse.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_puri.gif.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\puri.gif"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\anim_top_animation.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_download.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_download.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ico.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ico.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_key.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_key.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_comics.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\fragment_comics.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_download.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\activity_download.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_animation.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\anim\\bottom_animation.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_searching.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\activity_searching.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\font_bangers.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\font\\bangers.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share_black.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_share_black.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito_bold.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\font\\nunito_bold.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_accounting_business.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\fragment_accounting_business.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_school_black.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_school_black.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_second.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\fragment_home_second.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_all_pdf.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\activity_all_pdf.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ico001.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ico001.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_question_answer.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_question_answer.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_layout_container.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\activity_layout_container.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_searchbtn.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\searchbtn.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_feedback.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_feedback.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\layout_cardview_item_book.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\layout\\cardview_item_book.xml"
+    },
+    {
+        "merged": "H:\\Androidproject\\New014\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_book.xml.flat",
+        "source": "H:\\Androidproject\\New014\\app\\src\\main\\res\\drawable\\ic_book.xml"
+    }
+]
